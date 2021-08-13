@@ -1,3 +1,6 @@
+leftWristX = 0
+rightWristX = 0
+difference = 0
 function setup(){
     canvas = createCanvas(550,450);
     canvas.position(550,150);
